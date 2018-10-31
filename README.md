@@ -4,8 +4,8 @@
 + Run application `node index.js`
 
 # JWT library
-https://github.com/auth0/node-jsonwebtoken
-https://jwt.io/
++ https://github.com/auth0/node-jsonwebtoken
++ https://jwt.io/
 
 # RSA Keypair
 
